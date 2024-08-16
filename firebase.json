@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/signals/browser",
+    "public": "dist/signal/browser",
     "ignore": [
       "firebase.json",
       "**/.*",

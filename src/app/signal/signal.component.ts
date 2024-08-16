@@ -9,6 +9,6 @@ import { RouterModule } from '@angular/router';
   templateUrl: './signal.component.html',
   styleUrl: './signal.component.scss'
 })
-export class SignalComponent {
+export  class SignalComponent {
 
 }
